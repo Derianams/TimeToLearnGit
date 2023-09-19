@@ -1,2 +1,3 @@
 # TimeToLearnGit
-I'm learning git
+I'm learning git at the course 'Websites' in Thomas More at Geel
+
